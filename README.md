@@ -8,10 +8,16 @@ For Players:
 This mod adds tiles to places throughout the game where you can right click and get things, when you see the action white glove hand cursor. There are places in the stores, in houses, and such. Look around; every major character has one in their rooms, except: 
 
 The Witch (the wizard in vanilla... but I like trans Rasmodia better!!!), because she would smite you!!!
+
 Linus: Only a complete sleaze would steal from Linus.
+
 Jas and Vinni: Do not steal from the children!!! That is terrible!!!
+
 Granny and Grampa: You can steal from their kitchen and living room, but their room? That's just too far!!!
+
 Leo: He does not have anything to steal.
+
+
 
 Like the garbage cans, people will become angry if you are within seven tiles!!! You will lose a lot of friendship. However, you might get food, cool items, or perhaps all you can find is garbage!!! 
 
