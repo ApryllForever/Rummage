@@ -48,11 +48,17 @@ For Vanilla Maps: (or adding to any map instead of editing the TMX/TBIN file)
 
 {
 	"Action": "EditData",
+	
 	"Target": "Data/ExtraDialogue",
+	
 	"Entries": {
+	
 		"RummageComment_Child": "Why are you digging around in there???$h",
+		
 		"RummageComment_Teen": "Get the fuck out of that!!!$a",
+		
 		"RummageComment_Adult": "Hey!!! Get out of that!!! Stop theiving around!!!$a",
+		
 		},
 	},
 
