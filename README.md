@@ -30,23 +30,39 @@ After you add the tile information, add the EditMap to your mod's ContentPatcher
 Examples: 
 
 For Vanilla Maps: (or adding to any map instead of editing the TMX/TBIN file)
+
+
+
+
 {
 	"Action": "EditMap",
+	
 	"Target": "Maps/SeedShop", //////Abigail's Dresser
+	
 	"Update": "OnLocationChange",
+	
 	"MapTiles": [
+	
 		{
+		
         "Position": { "X": 12, "Y": 4 },
+	
         "Layer": "Buildings",
+	
         "SetProperties": {
+	
         "Action": "RS.Rummage 30",
+	
       }
+      
     }
+    
   ]
+  
 },
 
-
 {
+
 	"Action": "EditData",
 	
 	"Target": "Data/ExtraDialogue",
@@ -61,6 +77,8 @@ For Vanilla Maps: (or adding to any map instead of editing the TMX/TBIN file)
 		
 		},
 	},
+
+
 
 
 The RummageData.JSON uses this format: "weight ItemID NumberofItems/weight ItemID NumberofItems/weight ItemID NumberofItems/...",
