@@ -32,7 +32,7 @@ Examples:
 For Vanilla Maps: (or adding to any map instead of editing the TMX/TBIN file)
 
 
-
+{
 
 {
 	"Action": "EditMap",
@@ -78,7 +78,7 @@ For Vanilla Maps: (or adding to any map instead of editing the TMX/TBIN file)
 		},
 	},
 
-
+}
 
 
 The RummageData.JSON uses this format: "weight ItemID NumberofItems/weight ItemID NumberofItems/weight ItemID NumberofItems/...",
