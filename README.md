@@ -88,7 +88,7 @@ The RummageData.JSON uses this format: "weight ItemID NumberofItems/weight ItemI
 
 This way, you can use this to add rummageable tiles anywhere there is a tile in the buildings layer!
 
-So, to use this for your mod you are releasing, you will add the information to your content patcher and to the RummageData.JSON file, and use the mod files with your release. Please credit me. Cheers!  
+So, to use this for your mod you are releasing, you will add the information to your content patcher and to the RummageData.JSON file, and use the mod files with your release. You will also need to edit the source code to change the tile action from RS.Rummage to YourModName.Rummage, to avoid incompatibility with any other mod.. Please credit me if you are releasing it using my files. Cheers!
   
   
   
